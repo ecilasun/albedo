@@ -1,6 +1,7 @@
 # Albedo Shadow Removal Tool
 
 A Python tool that converts RGB images (PNG, BMP, JPG, etc.) to **albedo** (shadow-free reflectance) images using a pretrained intrinsic-decomposition model.
+It is based on AlbedoNet ([GitHub repositories](https://github.com/search?q=AlbedoNet&type=repositories)).
 
 ## Features
 
