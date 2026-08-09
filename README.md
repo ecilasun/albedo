@@ -20,15 +20,10 @@ It is based on AlbedoNet ([GitHub](https://github.com/Albedo-cc/AlbedoNet)).
 
 ### Setup
 
-Create virtual environment:
+Create virtual environment and activate it:
 
 ```bash
 python -m venv .venv
-```
-
-Activate it:
-
-```bash
 .venv\Scripts\Activate.ps1
 ```
 
